@@ -1,0 +1,4 @@
+[submodule "SDL"]
+	path = SDL
+	url = ../SDL
+	branch = shared-surface
